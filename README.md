@@ -1,3 +1,9 @@
+🔍 Problem Statement
+Loan default risk assessment is one of the biggest challenges for banks and financial institutions. Without proper insights into loan applicants' backgrounds and financial reliability, it becomes hard to predict approval success and control financial losses.
+
+✅ Solution
+This Power BI dashboard transforms raw loan data into visual insights, helping financial institutions make data-driven decisions regarding loan approvals.
+
 🔹 Key Features of the Dashboard:
 
 📊 Real-time KPIs:
